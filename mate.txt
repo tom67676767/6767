@@ -1,0 +1,3 @@
+oszinten nincsenek szavaim mate agyi kapacitasahoz. Nem tudom elkepzelni hogy hogy telik mindennapi elete ekkora disabilityvel
+git push --set-upstream origin grid
+git lecci old meg matet
