@@ -1,6 +1,14 @@
 #conténer {
     border: 6px solid red;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    gap: 7px;
 }
 .cikk {
     border: 7px dashed brown;
+    flex-grow: 1;
+    flex-shrink: 0;
+    flex-basis: 200px;
+    /*flex: 1 0 200px;*/ /*ez NEM a fenti 3 sor rövidebben*/
 }
