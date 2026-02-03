@@ -2,5 +2,8 @@
     border: 6px solid red;
 }
 .cikk {
-    border: 7px dashed brown;
+    border: 2px dashed brown;
+    width: calc(100% / 3);
+    box-sizing: border-box;
+    float: left;
 }
