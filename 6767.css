@@ -1,6 +1,9 @@
 #conténer {
     border: 6px solid red;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 20pxg;
 }
 .cikk {
-    border: 7px dashed brown;
+    border: 2px dashed brown;
 }
